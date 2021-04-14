@@ -1,0 +1,300 @@
+[[StarPU]]
+arch = "aarch64"
+git-tree-sha1 = "f9085e744c28f7078307386491158c0942cd61e8"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[StarPU.download]]
+    sha256 = "3657dcea59e51888ea81c2fa9538f0f4b9fdaf3a0776dfc527ef53fe855c0b82"
+    url = "https://github.com/JuliaBinaryWrappers/StarPU_jll.jl/releases/download/StarPU-v1.3.7+0/StarPU.v1.3.7.aarch64-linux-gnu-libgfortran3.tar.gz"
+[[StarPU]]
+arch = "aarch64"
+git-tree-sha1 = "f86c8f165f17b793a756150f0dad0bc89c870a07"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[StarPU.download]]
+    sha256 = "577b55d947d90bf4bce6dda0128f26e3a12831d675dde1fbd26139e119d57a76"
+    url = "https://github.com/JuliaBinaryWrappers/StarPU_jll.jl/releases/download/StarPU-v1.3.7+0/StarPU.v1.3.7.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[StarPU]]
+arch = "aarch64"
+git-tree-sha1 = "54991de259d1f281d002d30c6c3c1c31e922fda3"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[StarPU.download]]
+    sha256 = "caaffd0238dcb31b6dde08ab5c6843e31762d83a86cc24cb885549a2f101d096"
+    url = "https://github.com/JuliaBinaryWrappers/StarPU_jll.jl/releases/download/StarPU-v1.3.7+0/StarPU.v1.3.7.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[StarPU]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "1bd6626013a471848008b1873d0eff4b0aadedc9"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[StarPU.download]]
+    sha256 = "e56297c3c52948cdc358b72620647aac268bf1c6708fb399355b2be45db6dead"
+    url = "https://github.com/JuliaBinaryWrappers/StarPU_jll.jl/releases/download/StarPU-v1.3.7+0/StarPU.v1.3.7.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+[[StarPU]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "0d480bda5d43ea7412265b9f6a498783e5049120"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[StarPU.download]]
+    sha256 = "e0865424aa114391601f2d6c6bea04dca3266d4c5781f12317d2aaa3f8552f8c"
+    url = "https://github.com/JuliaBinaryWrappers/StarPU_jll.jl/releases/download/StarPU-v1.3.7+0/StarPU.v1.3.7.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+[[StarPU]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "6c5edb6eadc24e45b50cbd7a556f8e5beacbde9a"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[StarPU.download]]
+    sha256 = "737823d4c3d955f677d907b855af09c707a6d42992010bdceaba12173006237b"
+    url = "https://github.com/JuliaBinaryWrappers/StarPU_jll.jl/releases/download/StarPU-v1.3.7+0/StarPU.v1.3.7.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+[[StarPU]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "587a2f416a53d124f9f0df62b276965c3727bbc5"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[StarPU.download]]
+    sha256 = "e51c8fe84bef1048b66036196be3b6850a0719b215a281cafcbfe8db9ca94870"
+    url = "https://github.com/JuliaBinaryWrappers/StarPU_jll.jl/releases/download/StarPU-v1.3.7+0/StarPU.v1.3.7.armv7l-linux-musleabihf-libgfortran3.tar.gz"
+[[StarPU]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "9f0fe46aa06cbaa110ec13b08e32aa50330fc617"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[StarPU.download]]
+    sha256 = "03f8d809ef7d45959271e2db471c3a930dd4080d7f10a72823b1caff1a013106"
+    url = "https://github.com/JuliaBinaryWrappers/StarPU_jll.jl/releases/download/StarPU-v1.3.7+0/StarPU.v1.3.7.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+[[StarPU]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "d0f9db531192414d7ddfd21b7d604b4c00d4c8c0"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[StarPU.download]]
+    sha256 = "e7fa6e9f0a1b8becebfe27c9d63ca4437e2aa09f5562c4b23efd16e7f6f371b2"
+    url = "https://github.com/JuliaBinaryWrappers/StarPU_jll.jl/releases/download/StarPU-v1.3.7+0/StarPU.v1.3.7.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+[[StarPU]]
+arch = "i686"
+git-tree-sha1 = "60c861c81f27afb7d18465ed35bdff30174694fd"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[StarPU.download]]
+    sha256 = "b5e17a4af2659e7fdceed753199e022b95e5095b61ac0a2f926915a2abdcf2af"
+    url = "https://github.com/JuliaBinaryWrappers/StarPU_jll.jl/releases/download/StarPU-v1.3.7+0/StarPU.v1.3.7.i686-linux-gnu-libgfortran3.tar.gz"
+[[StarPU]]
+arch = "i686"
+git-tree-sha1 = "286ef54dbbeccf2de31676560320c89302483126"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[StarPU.download]]
+    sha256 = "e036d96fff63e8e73ffc946c0ee040bf1077460fbaeabebf645492c556028539"
+    url = "https://github.com/JuliaBinaryWrappers/StarPU_jll.jl/releases/download/StarPU-v1.3.7+0/StarPU.v1.3.7.i686-linux-gnu-libgfortran4.tar.gz"
+[[StarPU]]
+arch = "i686"
+git-tree-sha1 = "cf8b8c41aadd0396b296e3c164c0c7a8e850b729"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[StarPU.download]]
+    sha256 = "5350b11e57b0e79fdcc23529619d0f5b5436b596c444674aa3bb155914f77211"
+    url = "https://github.com/JuliaBinaryWrappers/StarPU_jll.jl/releases/download/StarPU-v1.3.7+0/StarPU.v1.3.7.i686-linux-gnu-libgfortran5.tar.gz"
+[[StarPU]]
+arch = "i686"
+git-tree-sha1 = "89fbb76f8e9c46bb1967ba52cfa6edad81f0ec77"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[StarPU.download]]
+    sha256 = "aec61b91c12a0bfca348e50e600917b1923cb3b98bd33e8d9832876c99295852"
+    url = "https://github.com/JuliaBinaryWrappers/StarPU_jll.jl/releases/download/StarPU-v1.3.7+0/StarPU.v1.3.7.i686-linux-musl-libgfortran3.tar.gz"
+[[StarPU]]
+arch = "i686"
+git-tree-sha1 = "64d309d8f0f73b0a35900c2d9a7703a1a54486ff"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[StarPU.download]]
+    sha256 = "c1d6802a1c33255be103f8455d0a0663bf980ab47f05bb4045cb65903d191164"
+    url = "https://github.com/JuliaBinaryWrappers/StarPU_jll.jl/releases/download/StarPU-v1.3.7+0/StarPU.v1.3.7.i686-linux-musl-libgfortran4.tar.gz"
+[[StarPU]]
+arch = "i686"
+git-tree-sha1 = "4eef4fae8a77b17a658f8d91ce3b085d9741fc30"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[StarPU.download]]
+    sha256 = "8313e92ca8c38731c5a229723513898cbca93e6de71375a643005a64bd005879"
+    url = "https://github.com/JuliaBinaryWrappers/StarPU_jll.jl/releases/download/StarPU-v1.3.7+0/StarPU.v1.3.7.i686-linux-musl-libgfortran5.tar.gz"
+[[StarPU]]
+arch = "powerpc64le"
+git-tree-sha1 = "2b57ce0259bdbf9ae94b5b3482e42a43b1ad0e8a"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[StarPU.download]]
+    sha256 = "531fb0b67f7d3f634e13023e21c0902c3dc88a6972462f780f6b5e732b932c03"
+    url = "https://github.com/JuliaBinaryWrappers/StarPU_jll.jl/releases/download/StarPU-v1.3.7+0/StarPU.v1.3.7.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+[[StarPU]]
+arch = "powerpc64le"
+git-tree-sha1 = "391cafc294db0af268523de504b6c9554583025b"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[StarPU.download]]
+    sha256 = "f62b84de9b9d248693b8e27fc4daaedb4820cc9a41ad897a61a495cd388e31fc"
+    url = "https://github.com/JuliaBinaryWrappers/StarPU_jll.jl/releases/download/StarPU-v1.3.7+0/StarPU.v1.3.7.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+[[StarPU]]
+arch = "powerpc64le"
+git-tree-sha1 = "4b72c4984e6e71a440221856613ecb4d49124964"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[StarPU.download]]
+    sha256 = "cb25cd8c5b25bacd74f9199e53d8c137b96a6fbb5ecaf846dfb33253f2056185"
+    url = "https://github.com/JuliaBinaryWrappers/StarPU_jll.jl/releases/download/StarPU-v1.3.7+0/StarPU.v1.3.7.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[StarPU]]
+arch = "x86_64"
+git-tree-sha1 = "c9a5563c3ec982fb92390a726bc9f6b6752db8fc"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[StarPU.download]]
+    sha256 = "09d910274ac221fa52a8fbc40646aa918c92de04f23f3397f36635e0aea22cdb"
+    url = "https://github.com/JuliaBinaryWrappers/StarPU_jll.jl/releases/download/StarPU-v1.3.7+0/StarPU.v1.3.7.x86_64-apple-darwin-libgfortran3.tar.gz"
+[[StarPU]]
+arch = "x86_64"
+git-tree-sha1 = "b9c75d257b80b3790fd8c55b10f39fe4c3d20684"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[StarPU.download]]
+    sha256 = "620b437e02d4bebcfc694d7220794d54b6f1d765dd7b6d4adb4ce153fa263a52"
+    url = "https://github.com/JuliaBinaryWrappers/StarPU_jll.jl/releases/download/StarPU-v1.3.7+0/StarPU.v1.3.7.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[StarPU]]
+arch = "x86_64"
+git-tree-sha1 = "de06fe6bb8127b2e10b90e4d879597063ba7c06d"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[StarPU.download]]
+    sha256 = "033e14c6eb1022ce1b77dc44e22323abd4ba9c20831f932d7a89cdbefe5eb8d7"
+    url = "https://github.com/JuliaBinaryWrappers/StarPU_jll.jl/releases/download/StarPU-v1.3.7+0/StarPU.v1.3.7.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[StarPU]]
+arch = "x86_64"
+git-tree-sha1 = "c98acb753b4cbecb5d52b0517001c5708d54e6c2"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[StarPU.download]]
+    sha256 = "600297cd63dec56e5fea387ef6726bb3cb018718add6957627c383a3852ab85c"
+    url = "https://github.com/JuliaBinaryWrappers/StarPU_jll.jl/releases/download/StarPU-v1.3.7+0/StarPU.v1.3.7.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[StarPU]]
+arch = "x86_64"
+git-tree-sha1 = "e2b8447cf426d6a084f5428dec8ba6518c91eae9"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[StarPU.download]]
+    sha256 = "56aa7a7e005e05dafed5c9e9ace8d9a56a0e7edc3714e2d0a8c820b7840e2423"
+    url = "https://github.com/JuliaBinaryWrappers/StarPU_jll.jl/releases/download/StarPU-v1.3.7+0/StarPU.v1.3.7.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[StarPU]]
+arch = "x86_64"
+git-tree-sha1 = "6c05dd81ac345ec663299f4e5ee67838017c3e7a"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[StarPU.download]]
+    sha256 = "7b520b864b97017a75d0e6b5b5621154825e495c831825c8ccbebca130341fc7"
+    url = "https://github.com/JuliaBinaryWrappers/StarPU_jll.jl/releases/download/StarPU-v1.3.7+0/StarPU.v1.3.7.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[StarPU]]
+arch = "x86_64"
+git-tree-sha1 = "b59fd9660f35919a02479b701ba69b5015917b33"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[StarPU.download]]
+    sha256 = "21758e02b598c12dae1a43e5fb33918f3816f2265334c629c4a53135db5f94d0"
+    url = "https://github.com/JuliaBinaryWrappers/StarPU_jll.jl/releases/download/StarPU-v1.3.7+0/StarPU.v1.3.7.x86_64-linux-musl-libgfortran3.tar.gz"
+[[StarPU]]
+arch = "x86_64"
+git-tree-sha1 = "1e9ece87781d72e72698e6e356b709473b0de609"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[StarPU.download]]
+    sha256 = "9216f312cfbd7fcf8535f234b3cd21007fcbc2655a24dd05877ff419731804a5"
+    url = "https://github.com/JuliaBinaryWrappers/StarPU_jll.jl/releases/download/StarPU-v1.3.7+0/StarPU.v1.3.7.x86_64-linux-musl-libgfortran4.tar.gz"
+[[StarPU]]
+arch = "x86_64"
+git-tree-sha1 = "c2ed67a597e9c4e19c76242b555875bccfef77d7"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[StarPU.download]]
+    sha256 = "664f7909f8174ac2137eb2a659e2b9b98a81304bb855ca03c3fa32f2bee4ed2a"
+    url = "https://github.com/JuliaBinaryWrappers/StarPU_jll.jl/releases/download/StarPU-v1.3.7+0/StarPU.v1.3.7.x86_64-linux-musl-libgfortran5.tar.gz"
+[[StarPU]]
+arch = "x86_64"
+git-tree-sha1 = "2c76ed605289ee7bef6636abd929d1adaf596bc5"
+libgfortran_version = "3.0.0"
+os = "freebsd"
+
+    [[StarPU.download]]
+    sha256 = "27dc39ee65f0e227f49346364d0aa16de317a30635efdd3afa89e67badfccd53"
+    url = "https://github.com/JuliaBinaryWrappers/StarPU_jll.jl/releases/download/StarPU-v1.3.7+0/StarPU.v1.3.7.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+[[StarPU]]
+arch = "x86_64"
+git-tree-sha1 = "5e2b741434e6bfc4c306bd7c40ac8cdca533f24c"
+libgfortran_version = "4.0.0"
+os = "freebsd"
+
+    [[StarPU.download]]
+    sha256 = "b6450488d560d2fbbc45909006fb014b993565bef5fb12d4b6a21f2fb8d7411e"
+    url = "https://github.com/JuliaBinaryWrappers/StarPU_jll.jl/releases/download/StarPU-v1.3.7+0/StarPU.v1.3.7.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+[[StarPU]]
+arch = "x86_64"
+git-tree-sha1 = "71e9e435c0837edc7eccdd73758654daac9c0e36"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[StarPU.download]]
+    sha256 = "225d986f8cf632592aace1610652b28b6fa02e8364d330dfc445cc7ebef22cf0"
+    url = "https://github.com/JuliaBinaryWrappers/StarPU_jll.jl/releases/download/StarPU-v1.3.7+0/StarPU.v1.3.7.x86_64-unknown-freebsd-libgfortran5.tar.gz"
